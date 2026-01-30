@@ -72,3 +72,9 @@ pip install torch torchvision scikit-learn opencv-python matplotlib seaborn scik
 
 ---
 
+## Author
+Victoria Piroian
+
+University of Toronto
+
+Faculty of Applied Science & Engineering, 2025
